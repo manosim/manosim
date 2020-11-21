@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  <b>Hey, I'm Manos 👋</b> <br />
-  I'm working as a Principal Engineer for <a href="https://www.thetimes.co.uk/" target="_blank">The Times & The Sunday Times</a>.
+  <b>Hey, I'm Manos 👋</b><br />
+  Engineering Manager at <a href="https://www.formidable.com/">Formidable</a>.
 </p>
