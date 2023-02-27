@@ -6,5 +6,5 @@
 
 <p align="center">
   <b>Hey, I'm Manos 👋</b><br />
-  Engineering Manager at <a href="https://www.formidable.com/">Formidable</a>.
+  Engineering Manager at <a href="https://www.nearform.com/">NearForm</a>.
 </p>
