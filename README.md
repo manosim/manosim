@@ -6,5 +6,5 @@
 
 <p align="center">
   <b>Hey, I'm Manos 👋</b><br />
-  Engineering Manager at <a href="https://www.nearform.com/">NearForm</a>.
+  Head of Engineering at <a href="https://www.travelex.co.uk/">Travelex</a>.
 </p>
